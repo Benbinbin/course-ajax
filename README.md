@@ -1,25 +1,9 @@
 # Ajax
 
-This is the repo for [Udacity's Ajax course](). The course covers making asynchronous requests using three different methods:
+这个项目是优达学城 [AJAX 入门](https://cn.udacity.com/course/intro-to-ajax--ud110/)课程项目，学习分别使用 `XMLHttpRequest`、jQuery 的 `.ajax()` 和 Fetch API 发送发送异步请求。
 
-* the XHR object
-* jQuery's `.ajax()` method
-* the Fetch API
+## 项目概述
 
-The same project is built with each of these techniques. You'll find one folder for each.
+在搜索框输入关键词，会向 Unsplash API 和 纽约时报 API 发送异步请求，并获取相关图片和文章，最终在网页上显示第一张图片和文章列表。
 
-## Table of Contents
-
-* [Instructions](#instructions)
-* [Creator](#creators)
-
-## Instructions
-
-There are no special instructions for this project.
-
-## Creators
-
-**Richard Kalehoff**
-
-* [https://twitter.com/richardkalehoff](https://twitter.com/richardkalehoff)
-* [https://github.com/richardkalehoff](https://github.com/richardkalehoff)
+![screenshot](images/screenshot.png)
